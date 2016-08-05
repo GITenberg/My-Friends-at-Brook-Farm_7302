@@ -1,0 +1,23 @@
+_repo: My-Friends-at-Brook-Farm_7302
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sears, John Van der Zee
+    birthdate: 1835
+    gutenberg_agent_id: '2416'
+    url: http://www.gutenberg.org/2009/agents/2416
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HX'
+- !lcsh 'Brook Farm Phalanx (West Roxbury, Boston, Mass.)'
+- GITenberg
+title: My Friends at Brook Farm
+url: http://www.gutenberg.org/ebooks/7302
